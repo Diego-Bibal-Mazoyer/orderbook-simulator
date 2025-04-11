@@ -22,6 +22,5 @@ project_orderbook/
 │   └── statistics.py           # Analyse statistique des résultats
 ├── interface/
 │   └── app.py                  # Application Streamlit pour l'interface interactive
-├── requirements.txt            # Liste des dépendances
 └── README.md                   # Documentation du projet
 
